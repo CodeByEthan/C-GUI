@@ -21,3 +21,9 @@ F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\refint\WPF-flatUI.dll
 F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\WPF-flatUI.pdb
 F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\WPF-flatUI.genruntimeconfig.cache
 F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\ref\WPF-flatUI.dll
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\Theme\TextBoxTheme.baml
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\MVVM\View\HomeView.g.cs
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\MVVM\View\HomeView.baml
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\MVVM\View\DiscoveryView.g.cs
+F:\GitHub\CodeByEthan\C-GUI\obj\Debug\net7.0-windows\MVVM\View\DiscoveryView.baml
